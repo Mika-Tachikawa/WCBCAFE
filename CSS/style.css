@@ -47,3 +47,19 @@ img {
   display: flex;
   justify-content: space-between;
 }
+
+.wrapper {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 4%;
+}
+
+.home-content {
+  text-align: center;
+  margin-top: 10%;
+}
+
+.home-content p {
+  font-size: 1.125rem;
+  margin: 10px 0 42p;
+}
