@@ -308,7 +308,7 @@ aside p {
  .grid {
    display: grid;
    gap: 26px;
-   grid-template-colums: 1fr 1fr 1fr;
+   grid-template-colums: repeat(auto-fit, minmax(240px, 1fr));
    margin-top: 6%;
    margin-bottom: 50px;
  }
