@@ -312,3 +312,8 @@ aside p {
    margin-top: 6%;
    margin-bottom: 50px;
  }
+ 
+#contact {
+    background-image: url(../images/contact-bg.jpg);
+    min-height: 100vh
+}
